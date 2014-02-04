@@ -12,11 +12,15 @@ To install:
 - Open Chrome and goto chrome://extensions
 - Click "Load unpacked extension..."
 - Choose the repo folder you just cloned.
--- Dan
+
+Thanks.
+Dan
 
 Links I used:
 https://developer.chrome.com/extensions/getstarted.html
+
 http://www.mattcutts.com/blog/write-chrome-extension/
+
 https://stackoverflow.com/questions/13571110/chrome-extension-how-to-redirect-to-a-custom-html-page-in-response-to-specific
 
 
