@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "GoogleAnalyticsRedirect",
+  "description": "This extension redirects the Google Analytics Page.",
+  "version": "1.0",
+  
+  "background": {"scripts":["redirect.js"]},
+  "permissions": [
+    "webRequest",
+    "http://www.google.com/analytics/",
+    "webRequestBlocking"
+  ]
+}
